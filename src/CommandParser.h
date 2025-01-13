@@ -13,7 +13,10 @@
 #ifndef __COMMAND_PARSER_H__
 #define __COMMAND_PARSER_H__
 
-#include <stddef.h>
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
 #include <stdint.h>
 #include <limits.h>
 
